@@ -69,7 +69,7 @@ software-center-aptd-plugins==0.0.0
 sqlparse==0.1.18
 system-service==0.3
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 ubuntu-drivers-common==0.0.0
